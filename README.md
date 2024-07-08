@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) in Python
 
-Welcome to the **Data Structures and Algorithms (DSA) in Python** repository! This project contains comprehensive resources and code examples from the full course by Coding Ninjas, aimed at helping you master data structures and algorithms using Python.
+Welcome to the **Data Structures and Algorithms (DSA) in Python** repository! This repository contains comprehensive resources and code examples from the full course by Coding Ninjas, aimed at helping you master data structures and algorithms using Python.
 
 ## 📋 Contents
 
